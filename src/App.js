@@ -1,6 +1,5 @@
 
 import React from 'react';
-import AddToDo from './AddToDo';
 import CheckB from './Counter';
 // import './App.css'
 const App = () => {
